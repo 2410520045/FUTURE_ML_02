@@ -1,0 +1,64 @@
+SUPPORT TICKET CLASSIFICATION
+
+1. PROJECT OBJECTIVE
+Build an NLP-based system that automatically classifies customer support tickets into categories and assigns priority levels so support teams can respond faster.
+
+2. DATASET
+A realistic sample dataset was generated for demonstration because no customer support dataset was supplied.
+The dataset contains 392 support tickets across six categories:
+Billing, Technical, Account, Shipping, Refund and Product.
+
+3. TEXT PREPROCESSING
+The system uses:
+- Lowercase conversion
+- English stop-word removal
+- Word and bigram TF-IDF features
+- Text vectorization suitable for machine-learning classification
+
+4. CATEGORY CLASSIFICATION
+Algorithm:
+TF-IDF + Logistic Regression
+
+Test accuracy: 100.00%
+Weighted F1-score: 100.00%
+
+5. PRIORITY ASSIGNMENT
+Priority levels:
+- High: urgent/security/payment/account-access/service-outage type issues
+- Medium: normal operational problems and errors
+- Low: general information or non-urgent requests
+
+A TF-IDF + Logistic Regression classifier was trained for priority prediction.
+
+Priority test accuracy: 98.73%
+Weighted F1-score: 98.69%
+
+6. SAMPLE PREDICTIONS
+The project includes sample predictions in sample_predictions.csv.
+
+7. VISUALIZATION
+Included:
+- Ticket category distribution
+- Priority distribution
+- Category confusion matrix
+- Priority confusion matrix
+
+8. BUSINESS VALUE
+The system can help support teams:
+- Automatically route tickets to the right department
+- Identify urgent tickets
+- Reduce manual ticket sorting
+- Improve response time
+- Analyze common customer problems
+- Prioritize security and account-access issues
+
+9. LIMITATIONS
+The dataset is synthetic for demonstration. Real deployment should use historical, labeled support tickets and should be evaluated for class imbalance, changing customer language, false negatives on urgent issues, privacy, and human review.
+
+10. FUTURE ENHANCEMENTS
+- Add real customer-ticket data
+- Use transformer models such as BERT
+- Add multilingual support
+- Build a Streamlit web interface
+- Connect to a help-desk API
+- Add confidence scores and human escalation

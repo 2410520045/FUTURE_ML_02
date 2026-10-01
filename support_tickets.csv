@@ -1,0 +1,393 @@
+Ticket_ID,Ticket_Text,Category,Priority
+1079, I cannot log in to the application Can you look into this?,Technical,Low
+1275,Can you help? Please cancel my order and issue a refund Please check this.,Refund,Medium
+1247, The package was marked delivered but I did not receive it Can you look into this?,Shipping,Low
+1056,I need help with this. There is an unexpected charge on my account,Billing,Low
+1388,My payment failed and the order is blocked,Billing,High
+1204,I am facing this issue. Can you tell me where my package is I would appreciate a quick response.,Shipping,Medium
+1043,Can you help? I need a copy of my latest invoice Please check this.,Billing,Low
+1234,I need assistance. When will my order be delivered This is affecting my work.,Shipping,Low
+1151, I need to change my phone number Can you look into this?,Account,Low
+1117,Customer support needed. I am getting an error when uploading a file It started today.,Technical,Medium
+1010,I need assistance. My invoice amount is incorrect This is affecting my work.,Billing,Medium
+1209,Please help me. The tracking information has not updated,Shipping,Low
+1288,I need help with this. When will I receive my refund,Refund,Low
+1166,Could you please resolve this? I cannot access my account settings Please advise me.,Account,High
+1276,I am facing this issue. Please cancel my order and issue a refund I would appreciate a quick response.,Refund,Medium
+1363,Can you help? I want to know whether this item is compatible Please check this.,Product,Low
+1125,Customer support needed. The system is not responding when I submit the form It started today.,Technical,Low
+1352,I need help with this. I received a damaged product,Product,Medium
+1295, I was promised a refund but have not received it Can you look into this?,Refund,High
+1333,Customer support needed. Is this product available in another size It started today.,Product,Low
+1016,I need help with this. My invoice amount is incorrect,Billing,Medium
+1389,My package is marked delivered but I did not receive it,Shipping,Low
+1346,I need assistance. I received a damaged product This is affecting my work.,Product,Medium
+1001,Please help me. I was charged twice for my subscription,Billing,High
+1141,Customer support needed. How can I update my profile information It started today.,Account,Low
+1114,I need assistance. I am getting an error when uploading a file This is affecting my work.,Technical,Medium
+1078,Could you please resolve this? I cannot log in to the application Please advise me.,Technical,Low
+1034,I need assistance. My payment was taken but my account still shows unpaid This is affecting my work.,Billing,Low
+1102,Could you please resolve this? My password reset link is not working Please advise me.,Technical,Medium
+1077,Customer support needed. I cannot log in to the application It started today.,Technical,Low
+1156,I am facing this issue. Please help me close my account I would appreciate a quick response.,Account,Medium
+1256,I need help with this. I need help changing my delivery address,Shipping,Low
+1290,I need assistance. I was promised a refund but have not received it This is affecting my work.,Refund,High
+1354,I need assistance. The product I received is different from the description This is affecting my work.,Product,Low
+1091,Can you help? The mobile app freezes after the latest update Please check this.,Technical,Low
+1380,I am facing this issue. Can I exchange this product for another model I would appreciate a quick response.,Product,Medium
+1138,I need assistance. How can I update my profile information This is affecting my work.,Account,Low
+1058,I need assistance. Please help me update my billing information This is affecting my work.,Billing,Low
+1074,I need assistance. I cannot log in to the application This is affecting my work.,Technical,Low
+1026,I need assistance. Why was I charged for a service I cancelled This is affecting my work.,Billing,Low
+1073,Please help me. I cannot log in to the application,Technical,Low
+1146,I need assistance. I need to change my phone number This is affecting my work.,Account,Low
+1370,I need assistance. How do I use this product This is affecting my work.,Product,Low
+1142,Could you please resolve this? How can I update my profile information Please advise me.,Account,Low
+1158,Could you please resolve this? Please help me close my account Please advise me.,Account,Low
+1094,Could you please resolve this? The mobile app freezes after the latest update Please advise me.,Technical,Low
+1047, I need a copy of my latest invoice Can you look into this?,Billing,Low
+1303, I need to return an item and get my money back Can you look into this?,Refund,Low
+1109,Customer support needed. The page keeps loading and never opens It started today.,Technical,Low
+1196,I am facing this issue. My order has not arrived yet I would appreciate a quick response.,Shipping,Medium
+1040,I need help with this. My payment was taken but my account still shows unpaid,Billing,Low
+1057,Please help me. Please help me update my billing information,Billing,Low
+1031, Why was I charged for a service I cancelled Can you look into this?,Billing,Low
+1375, How do I use this product Can you look into this?,Product,Low
+1384,I need help with this. Can I exchange this product for another model,Product,Low
+1133,Customer support needed. I want to change my account email address It started today.,Account,Low
+1164,I am facing this issue. I cannot access my account settings I would appreciate a quick response.,Account,High
+1168,I need help with this. I cannot access my account settings,Account,High
+1023, I need help understanding my billing charge Can you look into this?,Billing,Low
+1032,I need help with this. Why was I charged for a service I cancelled,Billing,Low
+1095, The mobile app freezes after the latest update Can you look into this?,Technical,Low
+1193,Please help me. My order has not arrived yet,Shipping,Low
+1306,I need assistance. Why is my refund still pending This is affecting my work.,Refund,Low
+1177,Please help me. I forgot which email is linked to my account,Account,Low
+1269,Customer support needed. My refund has not reached my bank account It started today.,Refund,Low
+1182,Could you please resolve this? I forgot which email is linked to my account Please advise me.,Account,Low
+1254,Could you please resolve this? I need help changing my delivery address Please advise me.,Shipping,Low
+1174,Could you please resolve this? How do I update my personal details Please advise me.,Account,Low
+1248,I need help with this. The package was marked delivered but I did not receive it,Shipping,Low
+1006,Could you please resolve this? I was charged twice for my subscription Please advise me.,Billing,High
+1046,Could you please resolve this? I need a copy of my latest invoice Please advise me.,Billing,Low
+1085,Customer support needed. The website is showing a server error It started today.,Technical,Medium
+1240,I need help with this. When will my order be delivered,Shipping,Low
+1111, The page keeps loading and never opens Can you look into this?,Technical,Low
+1362,I need assistance. I want to know whether this item is compatible This is affecting my work.,Product,Low
+1083,Can you help? The website is showing a server error Please check this.,Technical,Medium
+1115,Can you help? I am getting an error when uploading a file Please check this.,Technical,Medium
+1004,I am facing this issue. I was charged twice for my subscription I would appreciate a quick response.,Billing,High
+1019,Can you help? I need help understanding my billing charge Please check this.,Billing,Low
+1259,Can you help? I want a refund for my purchase Please check this.,Refund,Low
+1183, I forgot which email is linked to my account Can you look into this?,Account,Low
+1173,Customer support needed. How do I update my personal details It started today.,Account,Low
+1064,I need help with this. Please help me update my billing information,Billing,Low
+1341,Customer support needed. Can you explain the product features It started today.,Product,Low
+1230,Could you please resolve this? I received the wrong item in my package Please advise me.,Shipping,Medium
+1330,I need assistance. Is this product available in another size This is affecting my work.,Product,Low
+1381,Customer support needed. Can I exchange this product for another model It started today.,Product,Low
+1279, Please cancel my order and issue a refund Can you look into this?,Refund,Medium
+1221,Customer support needed. My delivery is delayed It started today.,Shipping,Medium
+1132,I am facing this issue. I want to change my account email address I would appreciate a quick response.,Account,Medium
+1281,Please help me. When will I receive my refund,Refund,Low
+1356,I am facing this issue. The product I received is different from the description I would appreciate a quick response.,Product,Medium
+1238,Could you please resolve this? When will my order be delivered Please advise me.,Shipping,Low
+1366,Could you please resolve this? I want to know whether this item is compatible Please advise me.,Product,Low
+1251,Can you help? I need help changing my delivery address Please check this.,Shipping,Low
+1210,I need assistance. The tracking information has not updated This is affecting my work.,Shipping,Low
+1076,I am facing this issue. I cannot log in to the application I would appreciate a quick response.,Technical,Medium
+1105,Please help me. The page keeps loading and never opens,Technical,Low
+1266,I need assistance. My refund has not reached my bank account This is affecting my work.,Refund,Low
+1017,Please help me. I need help understanding my billing charge,Billing,Low
+1067,Can you help? The application crashes when I open the dashboard Please check this.,Technical,Low
+1159, Please help me close my account Can you look into this?,Account,Low
+1008,I need help with this. I was charged twice for my subscription,Billing,High
+1020,I am facing this issue. I need help understanding my billing charge I would appreciate a quick response.,Billing,Medium
+1300,I am facing this issue. I need to return an item and get my money back I would appreciate a quick response.,Refund,Medium
+1348,I am facing this issue. I received a damaged product I would appreciate a quick response.,Product,Medium
+1342,Could you please resolve this? Can you explain the product features Please advise me.,Product,Low
+1119, I am getting an error when uploading a file Can you look into this?,Technical,Medium
+1178,I need assistance. I forgot which email is linked to my account This is affecting my work.,Account,Low
+1287, When will I receive my refund Can you look into this?,Refund,Low
+1379,Can you help? Can I exchange this product for another model Please check this.,Product,Low
+1292,I am facing this issue. I was promised a refund but have not received it I would appreciate a quick response.,Refund,High
+1061,Customer support needed. Please help me update my billing information It started today.,Billing,Low
+1080,I need help with this. I cannot log in to the application,Technical,Low
+1311, Why is my refund still pending Can you look into this?,Refund,Low
+1353,Please help me. The product I received is different from the description,Product,Low
+1249,Please help me. I need help changing my delivery address,Shipping,Low
+1154,I need assistance. Please help me close my account This is affecting my work.,Account,Low
+1110,Could you please resolve this? The page keeps loading and never opens Please advise me.,Technical,Low
+1018,I need assistance. I need help understanding my billing charge This is affecting my work.,Billing,Low
+1319, Please process my refund request Can you look into this?,Refund,Low
+1025,Please help me. Why was I charged for a service I cancelled,Billing,Low
+1127, The system is not responding when I submit the form Can you look into this?,Technical,Low
+1372,I am facing this issue. How do I use this product I would appreciate a quick response.,Product,Medium
+1176,I need help with this. How do I update my personal details,Account,Low
+1233,Please help me. When will my order be delivered,Shipping,Low
+1194,I need assistance. My order has not arrived yet This is affecting my work.,Shipping,Low
+1239, When will my order be delivered Can you look into this?,Shipping,Low
+1153,Please help me. Please help me close my account,Account,Low
+1347,Can you help? I received a damaged product Please check this.,Product,Medium
+1364,I am facing this issue. I want to know whether this item is compatible I would appreciate a quick response.,Product,Medium
+1181,Customer support needed. I forgot which email is linked to my account It started today.,Account,Low
+1120,I need help with this. I am getting an error when uploading a file,Technical,Medium
+1308,I am facing this issue. Why is my refund still pending I would appreciate a quick response.,Refund,Medium
+1220,I am facing this issue. My delivery is delayed I would appreciate a quick response.,Shipping,Medium
+1140,I am facing this issue. How can I update my profile information I would appreciate a quick response.,Account,Medium
+1149,Customer support needed. I need to change my phone number It started today.,Account,Low
+1302,Could you please resolve this? I need to return an item and get my money back Please advise me.,Refund,Low
+1037,Customer support needed. My payment was taken but my account still shows unpaid It started today.,Billing,Low
+1286,Could you please resolve this? When will I receive my refund Please advise me.,Refund,Low
+1212,I am facing this issue. The tracking information has not updated I would appreciate a quick response.,Shipping,Medium
+1226,I need assistance. I received the wrong item in my package This is affecting my work.,Shipping,Medium
+1327, I need information about this product Can you look into this?,Product,Low
+1060,I am facing this issue. Please help me update my billing information I would appreciate a quick response.,Billing,Medium
+1112,I need help with this. The page keeps loading and never opens,Technical,Low
+1368,I need help with this. I want to know whether this item is compatible,Product,Low
+1169,Please help me. How do I update my personal details,Account,Low
+1007, I was charged twice for my subscription Can you look into this?,Billing,High
+1283,Can you help? When will I receive my refund Please check this.,Refund,Low
+1322,I need assistance. I need information about this product This is affecting my work.,Product,Low
+1011,Can you help? My invoice amount is incorrect Please check this.,Billing,Medium
+1203,Can you help? Can you tell me where my package is Please check this.,Shipping,Low
+1104,I need help with this. My password reset link is not working,Technical,Medium
+1082,I need assistance. The website is showing a server error This is affecting my work.,Technical,Medium
+1219,Can you help? My delivery is delayed Please check this.,Shipping,Medium
+1235,Can you help? When will my order be delivered Please check this.,Shipping,Low
+1323,Can you help? I need information about this product Please check this.,Product,Low
+1211,Can you help? The tracking information has not updated Please check this.,Shipping,Low
+1343, Can you explain the product features Can you look into this?,Product,Low
+1324,I am facing this issue. I need information about this product I would appreciate a quick response.,Product,Medium
+1090,I need assistance. The mobile app freezes after the latest update This is affecting my work.,Technical,Low
+1245,Customer support needed. The package was marked delivered but I did not receive it It started today.,Shipping,Low
+1148,I am facing this issue. I need to change my phone number I would appreciate a quick response.,Account,Medium
+1263, I want a refund for my purchase Can you look into this?,Refund,Low
+1093,Customer support needed. The mobile app freezes after the latest update It started today.,Technical,Low
+1070,Could you please resolve this? The application crashes when I open the dashboard Please advise me.,Technical,Low
+1124,I am facing this issue. The system is not responding when I submit the form I would appreciate a quick response.,Technical,Medium
+1097,Please help me. My password reset link is not working,Technical,Medium
+1144,I need help with this. How can I update my profile information,Account,Low
+1298,I need assistance. I need to return an item and get my money back This is affecting my work.,Refund,Low
+1098,I need assistance. My password reset link is not working This is affecting my work.,Technical,Medium
+1224,I need help with this. My delivery is delayed,Shipping,Medium
+1069,Customer support needed. The application crashes when I open the dashboard It started today.,Technical,Low
+1024,I need help with this. I need help understanding my billing charge,Billing,Low
+1038,Could you please resolve this? My payment was taken but my account still shows unpaid Please advise me.,Billing,Low
+1145,Please help me. I need to change my phone number,Account,Low
+1123,Can you help? The system is not responding when I submit the form Please check this.,Technical,Low
+1068,I am facing this issue. The application crashes when I open the dashboard I would appreciate a quick response.,Technical,Medium
+1335, Is this product available in another size Can you look into this?,Product,Low
+1367, I want to know whether this item is compatible Can you look into this?,Product,Low
+1315,Can you help? Please process my refund request Please check this.,Refund,Low
+1312,I need help with this. Why is my refund still pending,Refund,Low
+1387,Critical server error is stopping all users from logging in,Technical,High
+1126,Could you please resolve this? The system is not responding when I submit the form Please advise me.,Technical,Low
+1147,Can you help? I need to change my phone number Please check this.,Account,Low
+1229,Customer support needed. I received the wrong item in my package It started today.,Shipping,Medium
+1087, The website is showing a server error Can you look into this?,Technical,Medium
+1382,Could you please resolve this? Can I exchange this product for another model Please advise me.,Product,Low
+1199, My order has not arrived yet Can you look into this?,Shipping,Low
+1332,I am facing this issue. Is this product available in another size I would appreciate a quick response.,Product,Medium
+1195,Can you help? My order has not arrived yet Please check this.,Shipping,Low
+1365,Customer support needed. I want to know whether this item is compatible It started today.,Product,Low
+1297,Please help me. I need to return an item and get my money back,Refund,Low
+1184,I need help with this. I forgot which email is linked to my account,Account,Low
+1197,Customer support needed. My order has not arrived yet It started today.,Shipping,Low
+1278,Could you please resolve this? Please cancel my order and issue a refund Please advise me.,Refund,Medium
+1223, My delivery is delayed Can you look into this?,Shipping,Medium
+1369,Please help me. How do I use this product,Product,Low
+1130,I need assistance. I want to change my account email address This is affecting my work.,Account,Low
+1039, My payment was taken but my account still shows unpaid Can you look into this?,Billing,Low
+1012,I am facing this issue. My invoice amount is incorrect I would appreciate a quick response.,Billing,Medium
+1340,I am facing this issue. Can you explain the product features I would appreciate a quick response.,Product,Medium
+1186,I need assistance. I need help managing my account This is affecting my work.,Account,Low
+1284,I am facing this issue. When will I receive my refund I would appreciate a quick response.,Refund,Medium
+1113,Please help me. I am getting an error when uploading a file,Technical,Medium
+1180,I am facing this issue. I forgot which email is linked to my account I would appreciate a quick response.,Account,Medium
+1337,Please help me. Can you explain the product features,Product,Low
+1273,Please help me. Please cancel my order and issue a refund,Refund,Medium
+1118,Could you please resolve this? I am getting an error when uploading a file Please advise me.,Technical,Medium
+1361,Please help me. I want to know whether this item is compatible,Product,Low
+1272,I need help with this. My refund has not reached my bank account,Refund,Low
+1377,Please help me. Can I exchange this product for another model,Product,Low
+1282,I need assistance. When will I receive my refund This is affecting my work.,Refund,Low
+1355,Can you help? The product I received is different from the description Please check this.,Product,Low
+1165,Customer support needed. I cannot access my account settings It started today.,Account,High
+1246,Could you please resolve this? The package was marked delivered but I did not receive it Please advise me.,Shipping,Low
+1137,Please help me. How can I update my profile information,Account,Low
+1155,Can you help? Please help me close my account Please check this.,Account,Low
+1200,I need help with this. My order has not arrived yet,Shipping,Low
+1198,Could you please resolve this? My order has not arrived yet Please advise me.,Shipping,Low
+1385,My account has been hacked and I cannot access it,Account,High
+1003,Can you help? I was charged twice for my subscription Please check this.,Billing,High
+1205,Customer support needed. Can you tell me where my package is It started today.,Shipping,Low
+1116,I am facing this issue. I am getting an error when uploading a file I would appreciate a quick response.,Technical,Medium
+1228,I am facing this issue. I received the wrong item in my package I would appreciate a quick response.,Shipping,Medium
+1232,I need help with this. I received the wrong item in my package,Shipping,Medium
+1027,Can you help? Why was I charged for a service I cancelled Please check this.,Billing,Low
+1121,Please help me. The system is not responding when I submit the form,Technical,Low
+1321,Please help me. I need information about this product,Product,Low
+1225,Please help me. I received the wrong item in my package,Shipping,Medium
+1371,Can you help? How do I use this product Please check this.,Product,Low
+1262,Could you please resolve this? I want a refund for my purchase Please advise me.,Refund,Low
+1328,I need help with this. I need information about this product,Product,Low
+1338,I need assistance. Can you explain the product features This is affecting my work.,Product,Low
+1128,I need help with this. The system is not responding when I submit the form,Technical,Low
+1075,Can you help? I cannot log in to the application Please check this.,Technical,Low
+1317,Customer support needed. Please process my refund request It started today.,Refund,Low
+1030,Could you please resolve this? Why was I charged for a service I cancelled Please advise me.,Billing,Low
+1084,I am facing this issue. The website is showing a server error I would appreciate a quick response.,Technical,Medium
+1325,Customer support needed. I need information about this product It started today.,Product,Low
+1108,I am facing this issue. The page keeps loading and never opens I would appreciate a quick response.,Technical,Medium
+1374,Could you please resolve this? How do I use this product Please advise me.,Product,Low
+1250,I need assistance. I need help changing my delivery address This is affecting my work.,Shipping,Low
+1134,Could you please resolve this? I want to change my account email address Please advise me.,Account,Low
+1185,Please help me. I need help managing my account,Account,Low
+1285,Customer support needed. When will I receive my refund It started today.,Refund,Low
+1045,Customer support needed. I need a copy of my latest invoice It started today.,Billing,Low
+1378,I need assistance. Can I exchange this product for another model This is affecting my work.,Product,Low
+1066,I need assistance. The application crashes when I open the dashboard This is affecting my work.,Technical,Low
+1291,Can you help? I was promised a refund but have not received it Please check this.,Refund,High
+1086,Could you please resolve this? The website is showing a server error Please advise me.,Technical,Medium
+1243,Can you help? The package was marked delivered but I did not receive it Please check this.,Shipping,Low
+1187,Can you help? I need help managing my account Please check this.,Account,Low
+1071, The application crashes when I open the dashboard Can you look into this?,Technical,Low
+1160,I need help with this. Please help me close my account,Account,Low
+1013,Customer support needed. My invoice amount is incorrect It started today.,Billing,Medium
+1036,I am facing this issue. My payment was taken but my account still shows unpaid I would appreciate a quick response.,Billing,Medium
+1029,Customer support needed. Why was I charged for a service I cancelled It started today.,Billing,Low
+1171,Can you help? How do I update my personal details Please check this.,Account,Low
+1143, How can I update my profile information Can you look into this?,Account,Low
+1313,Please help me. Please process my refund request,Refund,Low
+1267,Can you help? My refund has not reached my bank account Please check this.,Refund,Low
+1222,Could you please resolve this? My delivery is delayed Please advise me.,Shipping,Medium
+1096,I need help with this. The mobile app freezes after the latest update,Technical,Low
+1052,I am facing this issue. There is an unexpected charge on my account I would appreciate a quick response.,Billing,Medium
+1241,Please help me. The package was marked delivered but I did not receive it,Shipping,Low
+1293,Customer support needed. I was promised a refund but have not received it It started today.,Refund,High
+1299,Can you help? I need to return an item and get my money back Please check this.,Refund,Low
+1179,Can you help? I forgot which email is linked to my account Please check this.,Account,Low
+1042,I need assistance. I need a copy of my latest invoice This is affecting my work.,Billing,Low
+1305,Please help me. Why is my refund still pending,Refund,Low
+1207, Can you tell me where my package is Can you look into this?,Shipping,Low
+1255, I need help changing my delivery address Can you look into this?,Shipping,Low
+1326,Could you please resolve this? I need information about this product Please advise me.,Product,Low
+1005,Customer support needed. I was charged twice for my subscription It started today.,Billing,High
+1257,Please help me. I want a refund for my purchase,Refund,Low
+1351, I received a damaged product Can you look into this?,Product,Medium
+1101,Customer support needed. My password reset link is not working It started today.,Technical,Medium
+1227,Can you help? I received the wrong item in my package Please check this.,Shipping,Medium
+1336,I need help with this. Is this product available in another size,Product,Low
+1214,Could you please resolve this? The tracking information has not updated Please advise me.,Shipping,Low
+1172,I am facing this issue. How do I update my personal details I would appreciate a quick response.,Account,Medium
+1099,Can you help? My password reset link is not working Please check this.,Technical,Medium
+1216,I need help with this. The tracking information has not updated,Shipping,Low
+1062,Could you please resolve this? Please help me update my billing information Please advise me.,Billing,Low
+1048,I need help with this. I need a copy of my latest invoice,Billing,Low
+1033,Please help me. My payment was taken but my account still shows unpaid,Billing,Low
+1268,I am facing this issue. My refund has not reached my bank account I would appreciate a quick response.,Refund,Medium
+1201,Please help me. Can you tell me where my package is,Shipping,Low
+1391,"Urgent refund issue, the promised money has not arrived",Refund,High
+1028,I am facing this issue. Why was I charged for a service I cancelled I would appreciate a quick response.,Billing,Medium
+1350,Could you please resolve this? I received a damaged product Please advise me.,Product,Medium
+1231, I received the wrong item in my package Can you look into this?,Shipping,Medium
+1261,Customer support needed. I want a refund for my purchase It started today.,Refund,Low
+1289,Please help me. I was promised a refund but have not received it,Refund,High
+1163,Can you help? I cannot access my account settings Please check this.,Account,High
+1334,Could you please resolve this? Is this product available in another size Please advise me.,Product,Low
+1139,Can you help? How can I update my profile information Please check this.,Account,Low
+1063, Please help me update my billing information Can you look into this?,Billing,Low
+1136,I need help with this. I want to change my account email address,Account,Low
+1129,Please help me. I want to change my account email address,Account,Low
+1009,Please help me. My invoice amount is incorrect,Billing,Medium
+1065,Please help me. The application crashes when I open the dashboard,Technical,Low
+1301,Customer support needed. I need to return an item and get my money back It started today.,Refund,Low
+1015, My invoice amount is incorrect Can you look into this?,Billing,Medium
+1157,Customer support needed. Please help me close my account It started today.,Account,Low
+1041,Please help me. I need a copy of my latest invoice,Billing,Low
+1359, The product I received is different from the description Can you look into this?,Product,Low
+1318,Could you please resolve this? Please process my refund request Please advise me.,Refund,Low
+1217,Please help me. My delivery is delayed,Shipping,Medium
+1280,I need help with this. Please cancel my order and issue a refund,Refund,Medium
+1339,Can you help? Can you explain the product features Please check this.,Product,Low
+1237,Customer support needed. When will my order be delivered It started today.,Shipping,Low
+1208,I need help with this. Can you tell me where my package is,Shipping,Low
+1213,Customer support needed. The tracking information has not updated It started today.,Shipping,Low
+1296,I need help with this. I was promised a refund but have not received it,Refund,High
+1357,Customer support needed. The product I received is different from the description It started today.,Product,Low
+1252,I am facing this issue. I need help changing my delivery address I would appreciate a quick response.,Shipping,Medium
+1383, Can I exchange this product for another model Can you look into this?,Product,Low
+1358,Could you please resolve this? The product I received is different from the description Please advise me.,Product,Low
+1304,I need help with this. I need to return an item and get my money back,Refund,Low
+1270,Could you please resolve this? My refund has not reached my bank account Please advise me.,Refund,Low
+1202,I need assistance. Can you tell me where my package is This is affecting my work.,Shipping,Low
+1162,I need assistance. I cannot access my account settings This is affecting my work.,Account,High
+1044,I am facing this issue. I need a copy of my latest invoice I would appreciate a quick response.,Billing,Medium
+1218,I need assistance. My delivery is delayed This is affecting my work.,Shipping,Medium
+1191, I need help managing my account Can you look into this?,Account,Low
+1310,Could you please resolve this? Why is my refund still pending Please advise me.,Refund,Low
+1260,I am facing this issue. I want a refund for my purchase I would appreciate a quick response.,Refund,Medium
+1106,I need assistance. The page keeps loading and never opens This is affecting my work.,Technical,Low
+1054,Could you please resolve this? There is an unexpected charge on my account Please advise me.,Billing,Low
+1002,I need assistance. I was charged twice for my subscription This is affecting my work.,Billing,High
+1050,I need assistance. There is an unexpected charge on my account This is affecting my work.,Billing,Low
+1081,Please help me. The website is showing a server error,Technical,Medium
+1206,Could you please resolve this? Can you tell me where my package is Please advise me.,Shipping,Low
+1035,Can you help? My payment was taken but my account still shows unpaid Please check this.,Billing,Low
+1264,I need help with this. I want a refund for my purchase,Refund,Low
+1092,I am facing this issue. The mobile app freezes after the latest update I would appreciate a quick response.,Technical,Medium
+1053,Customer support needed. There is an unexpected charge on my account It started today.,Billing,Low
+1265,Please help me. My refund has not reached my bank account,Refund,Low
+1242,I need assistance. The package was marked delivered but I did not receive it This is affecting my work.,Shipping,Low
+1014,Could you please resolve this? My invoice amount is incorrect Please advise me.,Billing,Medium
+1316,I am facing this issue. Please process my refund request I would appreciate a quick response.,Refund,Medium
+1089,Please help me. The mobile app freezes after the latest update,Technical,Low
+1274,I need assistance. Please cancel my order and issue a refund This is affecting my work.,Refund,Medium
+1167, I cannot access my account settings Can you look into this?,Account,High
+1329,Please help me. Is this product available in another size,Product,Low
+1386,Urgent: I was charged twice and need this fixed immediately,Billing,High
+1135, I want to change my account email address Can you look into this?,Account,Low
+1307,Can you help? Why is my refund still pending Please check this.,Refund,Low
+1376,I need help with this. How do I use this product,Product,Low
+1320,I need help with this. Please process my refund request,Refund,Low
+1244,I am facing this issue. The package was marked delivered but I did not receive it I would appreciate a quick response.,Shipping,Medium
+1055, There is an unexpected charge on my account Can you look into this?,Billing,Low
+1051,Can you help? There is an unexpected charge on my account Please check this.,Billing,Low
+1175, How do I update my personal details Can you look into this?,Account,Low
+1190,Could you please resolve this? I need help managing my account Please advise me.,Account,Low
+1390,I suspect fraudulent activity on my account,Account,High
+1188,I am facing this issue. I need help managing my account I would appreciate a quick response.,Account,Medium
+1170,I need assistance. How do I update my personal details This is affecting my work.,Account,Low
+1059,Can you help? Please help me update my billing information Please check this.,Billing,Low
+1049,Please help me. There is an unexpected charge on my account,Billing,Low
+1345,Please help me. I received a damaged product,Product,Medium
+1236,I am facing this issue. When will my order be delivered I would appreciate a quick response.,Shipping,Medium
+1253,Customer support needed. I need help changing my delivery address It started today.,Shipping,Low
+1022,Could you please resolve this? I need help understanding my billing charge Please advise me.,Billing,Low
+1314,I need assistance. Please process my refund request This is affecting my work.,Refund,Low
+1161,Please help me. I cannot access my account settings,Account,High
+1277,Customer support needed. Please cancel my order and issue a refund It started today.,Refund,Medium
+1192,I need help with this. I need help managing my account,Account,Low
+1294,Could you please resolve this? I was promised a refund but have not received it Please advise me.,Refund,High
+1344,I need help with this. Can you explain the product features,Product,Low
+1258,I need assistance. I want a refund for my purchase This is affecting my work.,Refund,Low
+1309,Customer support needed. Why is my refund still pending It started today.,Refund,Low
+1150,Could you please resolve this? I need to change my phone number Please advise me.,Account,Low
+1131,Can you help? I want to change my account email address Please check this.,Account,Low
+1152,I need help with this. I need to change my phone number,Account,Low
+1360,I need help with this. The product I received is different from the description,Product,Low
+1100,I am facing this issue. My password reset link is not working I would appreciate a quick response.,Technical,Medium
+1373,Customer support needed. How do I use this product It started today.,Product,Low
+1088,I need help with this. The website is showing a server error,Technical,Medium
+1331,Can you help? Is this product available in another size Please check this.,Product,Low
+1215, The tracking information has not updated Can you look into this?,Shipping,Low
+1122,I need assistance. The system is not responding when I submit the form This is affecting my work.,Technical,Low
+1392,The application is down and nobody can use it,Technical,Low
+1021,Customer support needed. I need help understanding my billing charge It started today.,Billing,Low
+1189,Customer support needed. I need help managing my account It started today.,Account,Low
+1072,I need help with this. The application crashes when I open the dashboard,Technical,Low
+1107,Can you help? The page keeps loading and never opens Please check this.,Technical,Low
+1271, My refund has not reached my bank account Can you look into this?,Refund,Low
+1349,Customer support needed. I received a damaged product It started today.,Product,Medium
+1103, My password reset link is not working Can you look into this?,Technical,Medium

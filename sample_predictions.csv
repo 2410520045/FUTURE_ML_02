@@ -1,0 +1,6 @@
+Example_ID,Ticket_Text,Predicted_Category,Predicted_Priority
+1,Urgent! My account was hacked and I cannot log in.,Account,Low
+2,I need a copy of my invoice because the amount looks incorrect.,Billing,Low
+3,Where is my package? The tracking has not updated.,Shipping,Low
+4,I want to know whether this product is available in another size.,Product,Low
+5,My refund is still pending and I need an update.,Refund,Low
